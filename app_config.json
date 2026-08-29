@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1-senior",
-  "apkUrl": "https://github.com/jairanrk-lab/nationplay-senior-releases/releases/download/v1.0.1/app-senior-release.apk",
-  "changelog": "Hardening de streaming para TV Box: LoadControl otimizado, recuperação aprimorada de rede e telemetria resiliente.",
+  "versionCode": 3,
+  "versionName": "1.0.2-senior",
+  "apkUrl": "https://github.com/jairanrk-lab/nationplay-senior-releases/releases/download/v1.0.2/app-senior-release.apk",
+  "changelog": "Organização funcional de categorias em prateleiras (Globos, Record, Band, SBT, Premiere, etc.), filtro seguro de conteúdo adulto e lista sequencial de zapping.",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
