@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7-senior",
+  "versionCode": 9,
+  "versionName": "1.0.8-senior",
   "apkUrl": "https://github.com/jairanrk-lab/nationplay-senior-releases/releases/latest/download/app-senior-release.apk",
-  "changelog": "Sistema definitivo de capas e logos locais offline (100% de cobertura com 486 assets PNG deduplicados mapeados para todos os 1.754 streams); Resolução instantânea em 0ms sem dependência de rede; Acessibilidade com cards 215x142dp, relógio digital em tempo real e suporte integral ao controle remoto D-pad.",
+  "changelog": "1.0.8: Remove filtro local de conteúdo adulto (controle passa a ser só do painel do servidor); carregamento inicial do catálogo mais rápido (chamadas de rede em paralelo).",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
