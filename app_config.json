@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10-senior",
+  "versionCode": 12,
+  "versionName": "1.0.11-senior",
   "apkUrl": "https://github.com/jairanrk-lab/nationplay-senior-releases/releases/latest/download/app-senior-release.apk",
-  "changelog": "1.0.10: Correção no disparo do instalador de atualizações OTA, suporte a downloads sem Content-Length e blindagem de permissões.",
+  "changelog": "1.0.11: Canal ao vivo não entra mais em \"continuar assistindo\". Melhorias no baixador/instalador de atualizações OTA.",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
