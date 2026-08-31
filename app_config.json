@@ -2,7 +2,7 @@
   "versionCode": 11,
   "versionName": "1.0.10-senior",
   "apkUrl": "https://github.com/jairanrk-lab/nationplay-senior-releases/releases/latest/download/app-senior-release.apk",
-  "changelog": "1.0.10: Notificação de novo dispositivo reescrita com backend seguro (sem segredo embutido no app); melhorias de conectividade e rede (timeouts, threads isoladas, buffer do player).",
+  "changelog": "1.0.10: Correção no disparo do instalador de atualizações OTA, suporte a downloads sem Content-Length e blindagem de permissões.",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
