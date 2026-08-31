@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8-senior",
+  "versionCode": 10,
+  "versionName": "1.0.9-senior",
   "apkUrl": "https://github.com/jairanrk-lab/nationplay-senior-releases/releases/latest/download/app-senior-release.apk",
-  "changelog": "1.0.8: Remove filtro local de conteúdo adulto (controle passa a ser só do painel do servidor); carregamento inicial do catálogo mais rápido (chamadas de rede em paralelo).",
+  "changelog": "1.0.9: Recuperação de erros e feedback na tela de login sem travamento de inputs, navegação D-pad direta e blindagem de inicialização com logos 100% offline.",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
