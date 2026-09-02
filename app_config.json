@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11-senior",
-  "apkUrl": "https://github.com/jairanrk-lab/nationplay-senior-releases/releases/latest/download/app-senior-release.apk",
-  "changelog": "1.0.11: Novo nome (TV) e logotipo atualizados nos ícones do Android TV. Correções de OTA validadas.",
+  "versionCode": 35,
+  "versionName": "1.0.13-senior",
+  "apkUrl": "https://github.com/jairanrk-lab/nationplay-senior-releases/releases/download/v1.0.13-senior/app-senior-release.apk",
+  "changelog": "1.0.13-senior: Interface sênior refinada com alto contraste tvOS, estabilidade de foco D-pad e expurgo de acentos ciano.",
   "activeDns": "http://cl-mia-rxa00.com:80",
   "fallbackDns": "http://cl-mia-rxa00.com:80",
   "masterAccessKeyHash": "862c605c3e625ff4c23a9632b34e4d22ded112c30639d87745a6522f36198c66",
